@@ -1,0 +1,6 @@
+pandas
+tqdm
+langchain
+openai
+langchain-experimental
+argparse
