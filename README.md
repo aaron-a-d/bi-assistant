@@ -53,5 +53,3 @@ Here are some example commands:
 Ensure you have sufficient disk space for downloading and processing the datasets.
 The initial setup, especially the processing step, might take a considerable amount of time.
 Always ensure your OpenAI API key is set correctly before running queries.
-
-You can use this Markdown content to create the `README.md` file for your CLI application, providing clear instructions on how to install, set up, and use the tool.
