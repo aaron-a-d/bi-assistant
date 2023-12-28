@@ -22,11 +22,7 @@ pip install -r requirements.txt
 This command will install all necessary Python packages listed in requirements.txt.
 
 ### Step 3: Set Up OpenAI API Key
-You need to have an OpenAI API key to use this application. Set your OpenAI API key as an environment variable:
-
-```bash
-export OPENAI_API_KEY='your_api_key_here'
-```
+You need to have an OpenAI API key to use this application. Set your OpenAI API key in the `imdb_cli.py` file.
 Replace your_api_key_here with your actual OpenAI API key.
 
 ## Usage
