@@ -9,7 +9,7 @@ from langchain_experimental.sql import SQLDatabaseChain
 
 # Global constant for the download folder
 DOWNLOAD_FOLDER = "imdb_datasets"
-OPENAI_API_KEY = "your_api_key_here"
+os.environ["OPENAI_API_KEY"] = "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"
 
 def initialize():
     if not os.path.exists(DOWNLOAD_FOLDER):
